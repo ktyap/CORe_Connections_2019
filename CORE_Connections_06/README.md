@@ -13,6 +13,6 @@ In 2017, DBS called themselves the “_Digital Bank of Singapore_” as a symbol
 
 
 
-<img src="digital_bank_of_singapore.jpg" alt="Digital Bank of Singapore" style="zoom:50%;" /> 
+<img src="digital_bank_of_singapore.jpg" alt="Digital Bank of Singapore" style="zoom: 33%;" /> 
 
 Note: The picture is taken from the official website of DBS (DBS Group Holdings, 2019, [www.dbs.com](www.dbs.com))
