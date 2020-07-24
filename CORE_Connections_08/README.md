@@ -1,0 +1,11 @@
+#### 2019-08-19 CORe Connections 08
+
+##### Instructions:
+
+Share a story or a link to a news article describing a government intervention in a market. Explain how the intervention changes the outcome of the market, and whether you think the intervention had a positive or negative effect.
+
+##### Shared:
+
+I think Singapore’s public housing may be a good example of positive effects from government intervention. This article ([This Week in Asia, 2019](https://www.scmp.com/week-asia/society/article/3008807/why-hong-kong-cannot-copy-singapores-approach-public-housing)) details the background of how Singapore started building affordable public housing in the 1960s after its independence in 1965. It started because Singapore faced the problem of housing shortage and people were living in overcrowded and unsanitary conditions.
+
+The government has been effectively subsidizing affordable home ownership for the vast majority of the population. According to the same article, the public housing development was a means to reforming land ownership and distributing wealth to its vast majority of residents (financing for public housing are generally cheaper than renting). For example, it had legislations that allow the government to acquire private land with compensation below market value. Under its public housing scheme, the homes are under a 99-year lease from the state. Today, about 80% of the population live in public housing. In general, its people are happy with the stability and sustainability provided by the affordable public housing. From time to time, the government intervenes in the private property market by means of “cooling measures” in the form of hefty buyers’ stamp duties (taxes for the purchases of private properties as investments) whenever the property market is showing signs of overheating, such as one as recent as last year ([Channel News Asia, 2018](https://www.channelnewsasia.com/news/commentary/government-intervene-singapore-private-housing-cooling-measure-10546854)).

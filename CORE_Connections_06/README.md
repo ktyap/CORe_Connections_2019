@@ -3,6 +3,7 @@
 ##### Instructions:
 
 In Economics module 3, we spent some time analyzing the structure of costs (for example, fixed versus variable costs). In particular, we discussed the significance of _fixed costs_, and how the implications of fixed costs differ across businesses, depending on “where they reside” - that is, depending on whether the fixed costs are local, regional, national, or global in nature. Select and describe one important fixed cost incurred by a business and share a photo representing that cost. Explain “where this fixed cost resides” (i.e., how well you think this fixed cost would scale as the business expanded). Please try to think of examples we have not covered in this module.
+
 If the image is not your own, be sure to cite the source in your description.
 
 ##### Shared:
@@ -15,4 +16,4 @@ In 2017, DBS called themselves the “_Digital Bank of Singapore_” as a symbol
 
 <img src="digital_bank_of_singapore.jpg" alt="Digital Bank of Singapore" style="zoom: 33%;" /> 
 
-Note: The picture is taken from the official website of DBS (DBS Group Holdings, 2019, [www.dbs.com](www.dbs.com))
+Note: The picture is taken from the official website of DBS ([DBS Group Holdings, 2019](www.dbs.com))
